@@ -1,43 +1,60 @@
-# 👋 Hi, I'm Rakesh Mali  
+# Hi, I'm Rakesh Mali 👋
 
-🚀 **Full Stack Developer | Problem Solver | Tech Enthusiast**
+Full-Stack Developer with 8+ months of Software Engineering internship experience and 2+ years of freelance development experience.
 
-I am a passionate Full Stack Developer skilled in building modern, scalable, and responsive web applications. I enjoy solving real-world problems using technology and always keep learning new tools to stay updated in the tech world.  
+## What I Build
 
----
+* Full-Stack Web Applications
+* React.js Frontend Systems
+* Node.js & Express APIs
+* PostgreSQL & MongoDB Databases
+* Healthcare & Business Management Platforms
+* Automation Workflows using n8n and UiPath
 
-## 🛠️ Tech Stack  
+## Tech Stack
 
-**Frontend:**  
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js, Bootstrap, Tailwind CSS  
-- Responsive Web Design (Media Queries)  
+Frontend:
+React.js • JavaScript • HTML5 • CSS3 • Tailwind CSS • Bootstrap
 
-**Backend:**  
-- PHP, Node.js (basic)  
-- MySQL, MongoDB  
-- REST APIs, JSON, AJAX  
+Backend:
+Node.js • Express.js • PHP • REST APIs • JWT Authentication
 
-**Tools & Others:**  
-- Git, GitHub, Docker  
-- Visual Studio Code, Postman  
-- AI Tools & Extensions  
+Database:
+PostgreSQL • MongoDB • MySQL • Supabase
 
----
+Tools:
+Git • GitHub • Postman • Docker • GitHub Actions
 
-## 🎓 Education  
+## Featured Projects
 
-- **B.Tech in Information Technology**  
-  Manipal University Jaipur  
+### Healthcare ERP System
 
----
+Production-ready healthcare management platform with role-based access control, appointment management, patient workflows, and PostgreSQL backend.
 
-## 📬 Contact  
+### AI Clinic Management System
 
-- 📧 Email: [rakeshmali46519@gmail.com](mailto:rakeshmali46519@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/rakeshmali46519](https://linkedin.com/in/rakeshmali46519)  
-- 🐙 GitHub: [github.com/rakeshmali46519](https://github.com/rakeshmali46519)  
+Full-stack clinic management application with secure authentication, REST APIs, and responsive UI.
 
----
+### MUJ Project Allocation System
 
-⭐️ *Feel free to explore my repositories and connect with me. I'm always open to collaborations and learning opportunities!*  
+Academic project management system used for project allocation, approvals, and student tracking.
+
+### Prime Bank
+
+Role-based banking system with authentication, account management, and transaction tracking.
+
+## Current Focus
+
+* Advanced React.js Development
+* Backend Architecture
+* PostgreSQL Optimization
+* Data Structures & Algorithms in Python
+* System Design Fundamentals
+
+## Connect With Me
+
+Portfolio: rakeshmali.vercel.app
+
+LinkedIn: linkedin.com/in/rakeshmali46519
+
+Email: [rakeshmali46529@gmail.com](mailto:rakeshmali46529@gmail.com)
