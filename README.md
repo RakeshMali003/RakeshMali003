@@ -1,6 +1,6 @@
 # Hi, I'm Rakesh Mali 👋
 
-### Software Engineer | Full-Stack Web Developer | AI-Assisted Developer
+### Software Engineer | Full-Stack Web Developer
 
 🎓 Recent **B.Tech graduate in Information Technology (2026)** from Manipal University Jaipur.
 
